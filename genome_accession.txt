@@ -1,0 +1,99 @@
+species	genome size	accession
+Tachypleus_tridentatus	1.9G	
+Archaeomysis grebnitzkii	991M	GCA_031471125.1
+Acartia tonsa	996M	GCA_900241095.1
+Apocyclops_royi	265M	GCA_900607525.1
+Eurytemora carolleeae	377M	GCA_000591075.2
+Eurytemora_affinis_copepod	377M	GCF_000591075.1
+Lepeophtheirus_salmonis	626M	GCA_016086655.4
+Temoridae_sp	10M	GCA_029298275.1
+Tigriopus_californicus	185M	GCA_007210705.1
+Tigriopus_japonicus	190M	GCA_010645155.1
+Tigriopus_californicus_copepod	179M	
+Calanus finmarchicus	3.9M	GCA_002740975.1
+Calanus glacialis	4.3M	GCA_002740985.1
+Caligus rogercresseyi	462M	GCA_013387185.1
+Cletocamptus dominicanus	222M	GCA_028565815.1
+Longipedia_americana	676M	GCA_028571025.1
+Metis_holothuriae	434M	GCA_028566655.1
+Oithona nana	83M	GCA_900157175.1
+Paracyclopina_nana	89M	GCA_019096065.1
+Tisbe_holothuriae	276M	GCA_900659605.1
+Armadillidium vulgare	1.7G	GCA_004104545.1
+Bathynomus_doederleini	4.1G	
+Bathynomus jamesi	5.5G	
+Ligia_exotica	1.1G	GCA_002091915.1
+Trachelipus_rathkii	¿ÕµÄ	
+Notopais sp. c TS-2021	581M	GCA_028455975.1
+Notopais sp. p TS-2021	641M	GCA_028455955.1
+Gammarus roeselii	3.2G	GCA_016164225.1
+Hyalella_azteca	535M	GCF_000764305.1
+Morinoia_aosen	1.9G	GCA_030386875.1
+Orchestia_grillus	801M	GCA_014899125.1
+Trinorchestia_longiramus	860M	GCA_006783055.1
+Caprella mutica	874M	GCA_947561585.1
+Pagurus beringanus	975M	GCA_031763525.1
+Pagurus_granosimanus	873M	GCA_030265335.1
+Pagurus_hirsutiusculus	837M	GCA_030323965.1
+Pagurus_longicarpus	628M	GCA_028571265.1
+Birgus latro	2.9G	GCA_018397915.1
+Callinectes_sapidus	965M	GCA_020233015.1
+Chionoecetes opilio	1.9G	GCA_016584305.1
+Coenobita brevimanus	4.5G	GCA_032717465.1
+Metacarcinus_magister	706M	GCA_029783475.1
+Paralithodes_platypus	4.8G	GCA_032716605.1
+Homarus_gammarus	1.7G	GCA_958450375.1
+Panulirus_pascuensis	1.2G	GCA_032361865.1
+Panulirus_gracilis	1.3G	GCA_032361445.1
+Panulirus_inflatus	1.4G	GCA_032361765.1
+Panulirus interruptus	1.4G	GCA_032273725.1
+Panulirus_marginatus	1.3G	GCA_032361885.1
+Panulirus_ornatus	2.6G	GCA_036320965.1
+Caridina multidentata	2.2G	GCA_002091895.1
+Cherax destructor	3.2G	GCA_009830355.1
+Cherax quadricarinatus	5.0G	GCA_026875155.2
+Oratosquilla oratoria	17M	GCA_029233275.1
+Marsupenaeus_japanicus	1.7G	GCF_017312705.1
+Pandalus_platyceros	151M	GCA_005815305.1
+Procambarus virginalis	3.3G	GCA_002838885.1
+Balanus_glandula	585M	GCA_030265075.1
+Balanus nubilus	563M	GCA_031763405.1
+Capitulum mitella	461M	GCA_030062745.1
+Lepas anserifera	722M	
+Megabalanus_tintinnabulum	1.2G	
+Pollicipes_pollicipes	744M	GCA_011947565.3
+Sacculina_carcini	256M	GCA_916048095.2
+Semibalanus_balanoides	471M	GCA_014673585.1
+Semibalanus_cariosus	629M	GCA_030323935.1
+Tetraclita_japonica	1.8G	
+Captitulum mitella	489M	
+Darwinula stevensoni	376M	GCA_905338385.1
+Notodromas_monacha	371M	GCA_905338405.1
+Lepidurus_apus_apus	77M	GCA_022832285.1
+Lepidurus_apus_lubbocki	85M	GCA_003723985.2
+Lepidurus_arcticus	71M	GCA_003724045.1
+Triops_cancriformis	113M	GCA_020615345.1
+Triops_longicaudatus	81M	GCA_022885665.1
+Lepidurus couesii	75M	GCA_022832235.1
+Lepidurus packardi	105M	GCA_023053545.1
+Daphnia carinata	105M	GCA_022539665.4
+Daphnia dubia	107M	GCA_013387435.1
+Daphnia_galeata	145M	GCA_030770115.1
+Daphnia_pulex	129M	GCA_021134715.1
+Daphnia sinensis	116M	GCA_013167095.2
+Daphnia pulicaria	179M	GCF_021234035.1
+Ceriodaphnia dubia	125M	GCA_022539655.2
+Chydorus sphaericus	150M	GCA_030141595.1
+Leptestheria dahalacensis	102M	GCA_022114935.1
+Eulimnadia texana	117M	GCA_002872375.1
+Artemia franciscana	1.2G	GCA_032884065.1
+Artemia sinica	1.7G	GCA_027921565.1
+Artemia sp. Kazakhstan	1.2G	GCA_029168905.1
+Branchinecta lynchi	556M	GCA_023053575.1
+Branchinecta lindahli	372M	GCA_023053555.1
+Branchinecta sandiegonensis	515M	GCA_030848855.1
+xbMagGiga	545M	GCF_963853765.1
+Pinctada_fucata	899M	GCA_028142955.1
+Mya arenaria	1.2G	GCF_026914265.1
+Tegillarca_granosa	885M	GCA_029721355.1
+Apostichopus_japonicus	649M	GCA_037975245.1
